@@ -1,5 +1,5 @@
 # Deep Learning Specialization
-Deep Learning Specialization by deeplearning.ai on Coursera.
+[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) by deeplearning.ai on Coursera.
 
 ## About this Specialization
 
