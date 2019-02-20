@@ -22,3 +22,7 @@ Deep Learning Specialization by deeplearning.ai on Coursera.
   - [Logistic Regression with a Neural Network](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/01Neural_Networks_and_Deep_Learning/01Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
   
   - [Planar Data Classification with One Hidden Layer](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/01Neural_Networks_and_Deep_Learning/02Planar_Data_Classification_with_One_Hidden_Layer.ipynb)
+
+  - [Building Your Deep Neural Network Step by Step](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/01Neural_Networks_and_Deep_Learning/03Building_Your_Deep_Neural_Network_Step_by_Step.ipynb)
+
+  - [Deep Neural Network Application](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/01Neural_Networks_and_Deep_Learning/04Deep_Neural_Network_Application.ipynb)
