@@ -26,3 +26,9 @@
   - [Building Your Deep Neural Network Step by Step](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/01Neural_Networks_and_Deep_Learning/03Building_Your_Deep_Neural_Network_Step_by_Step.ipynb)
 
   - [Deep Neural Network Application](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/01Neural_Networks_and_Deep_Learning/04Deep_Neural_Network_Application.ipynb)
+  
+ - Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+
+  - [Initialization](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/02Improving_Deep_Neural_Networks/01Initialization.ipynb)
+  
+  - [Regularization](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/02Improving_Deep_Neural_Networks/02Regularization.ipynb)
