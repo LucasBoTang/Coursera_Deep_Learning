@@ -32,3 +32,5 @@
   - [Initialization](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/02Improving_Deep_Neural_Networks/01Initialization.ipynb)
   
   - [Regularization](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/02Improving_Deep_Neural_Networks/02Regularization.ipynb)
+  
+  - [Gradient Checking](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/02Improving_Deep_Neural_Networks/03Gradient_Checking.ipynb)
