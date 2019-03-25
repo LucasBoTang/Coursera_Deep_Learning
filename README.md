@@ -38,3 +38,7 @@
    - [Optimization Methods](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/02Improving_Deep_Neural_Networks/04Optimization_Methods.ipynb)
    
    - [Tensorflow Tutorial](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/02Improving_Deep_Neural_Networks/05Tensorflow_Tutorial.ipynb)
+
+- Course 4: Convolutional Neural Networks
+
+  - [Convolution Model Step by Step](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/04Convolutional_Neural_Networks/01Convolution_Model_Step_by_Step.ipynb)
