@@ -44,3 +44,5 @@
   - [Convolution Model Step by Step](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/04Convolutional_Neural_Networks/01Convolution_Model_Step_by_Step.ipynb)
 
   - [Convolution Model Application](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/04Convolutional_Neural_Networks/02Convolution_Model_Application.ipynb)
+  
+  - [Residual Networks](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/04Convolutional_Neural_Networks/03Residual_Networks.ipynb)
