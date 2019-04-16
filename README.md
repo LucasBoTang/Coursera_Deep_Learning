@@ -46,3 +46,5 @@
   - [Convolution Model Application](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/04Convolutional_Neural_Networks/02Convolution_Model_Application.ipynb)
   
   - [Residual Networks](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/04Convolutional_Neural_Networks/03Residual_Networks.ipynb)
+ 
+  - [Art Generation with Neural Style Transfer](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/04Convolutional_Neural_Networks/05Art_Generation_with_Neural_Style_Transfer.ipynb)
