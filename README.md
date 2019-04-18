@@ -48,3 +48,5 @@
   - [Residual Networks](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/04Convolutional_Neural_Networks/03Residual_Networks.ipynb)
  
   - [Art Generation with Neural Style Transfer](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/04Convolutional_Neural_Networks/05Art_Generation_with_Neural_Style_Transfer.ipynb)
+
+  - [Face Recognition for the Happy House](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/04Convolutional_Neural_Networks/06Face_Recognition_for_the_Happy_House.ipynb)
