@@ -23,7 +23,7 @@
   
   - [Planar Data Classification with One Hidden Layer](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/01Neural_Networks_and_Deep_Learning/02Planar_Data_Classification_with_One_Hidden_Layer.ipynb)
 
-  - [Building Your Deep Neural Network Step by Step](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/01Neural_Networks_and_Deep_Learning/03Building_Your_Deep_Neural_Network_Step_by_Step.ipynb)
+  - [Building Your Deep Neural Network - Step by Step](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/01Neural_Networks_and_Deep_Learning/03Building_Your_Deep_Neural_Network_Step_by_Step.ipynb)
 
   - [Deep Neural Network Application](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/01Neural_Networks_and_Deep_Learning/04Deep_Neural_Network_Application.ipynb)
   
@@ -41,7 +41,7 @@
 
 - Course 4: Convolutional Neural Networks
 
-  - [Convolution Model Step by Step](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/04Convolutional_Neural_Networks/01Convolution_Model_Step_by_Step.ipynb)
+  - [Convolution Model - Step by Step](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/04Convolutional_Neural_Networks/01Convolution_Model_Step_by_Step.ipynb)
 
   - [Convolution Model Application](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/04Convolutional_Neural_Networks/02Convolution_Model_Application.ipynb)
   
@@ -50,3 +50,11 @@
   - [Art Generation with Neural Style Transfer](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/04Convolutional_Neural_Networks/05Art_Generation_with_Neural_Style_Transfer.ipynb)
 
   - [Face Recognition for the Happy House](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/04Convolutional_Neural_Networks/06Face_Recognition_for_the_Happy_House.ipynb)
+  
+ - Course 5: Sequence Models
+
+  - [Building your Recurrent Neural Network - Step by Step](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/05Sequence_Models/01Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
+  
+  - [Character level language model - Dinosaurus land](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/05Sequence_Models/02Dinosaurus_Island_Character_Level_Language_Model.ipynb)
+  
+  - [Improvise a Jazz Solo with an LSTM Network](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/05Sequence_Models/03Improvise_a_Jazz_Solo_with_an_LSTM_Network.ipynb
