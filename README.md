@@ -51,10 +51,10 @@
 
   - [Face Recognition for the Happy House](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/04Convolutional_Neural_Networks/06Face_Recognition_for_the_Happy_House.ipynb)
   
- - Course 5: Sequence Models
+- Course 5: Sequence Models
 
   - [Building your Recurrent Neural Network - Step by Step](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/05Sequence_Models/01Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
   
   - [Character level language model - Dinosaurus land](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/05Sequence_Models/02Dinosaurus_Island_Character_Level_Language_Model.ipynb)
   
-  - [Improvise a Jazz Solo with an LSTM Network](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/05Sequence_Models/03Improvise_a_Jazz_Solo_with_an_LSTM_Network.ipynb
+  - [Improvise a Jazz Solo with an LSTM Network](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/05Sequence_Models/03Improvise_a_Jazz_Solo_with_an_LSTM_Network.ipynb)
