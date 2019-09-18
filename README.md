@@ -62,3 +62,7 @@
   - [Operations_on_Word_Vectors](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/05Sequence_Models/04Operations_on_Word_Vectors.ipynb)
   
   - [Emojify](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/05Sequence_Models/05Emojify.ipynb)
+
+  - [Neural Machine Translation](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/05Sequence_Models/06Neural_Machine_Translation_with_Attention.ipynb)
+  
+  - [Trigger Word Detection](https://github.com/LucasBoTang/Coursera_Deep_Learning/blob/master/05Sequence_Models/07Trigger_Word_Detection.ipynb)
